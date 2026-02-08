@@ -1,0 +1,6 @@
+
+{
+  "name": "Chemical Compatibility Master (Offline)",
+  "description": "A robust local chemical compatibility assessment tool based on a curated CAS database, H-statements, and GHS storage matrix.",
+  "requestFramePermissions": []
+}
